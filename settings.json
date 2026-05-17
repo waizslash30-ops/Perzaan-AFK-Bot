@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK BRO",
   "bot-account": {
-    "username": "Teen Bot",
+    "username": "TeenLive",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "TeenSmp456true.aternos.me",
     "port": 21899,
-    "version": "1.21.10"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
